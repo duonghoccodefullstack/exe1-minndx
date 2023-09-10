@@ -1,0 +1,70 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #dfeef0;
+}
+h1, h2, h4 {
+    color: 
+    #6b8e90;
+}
+
+hr {
+    border: 3px dashed #4d6667;
+    
+}
+#avatar {
+  /* Trong file main.css */
+
+    max-width: 100%;
+    height: auto;
+  
+  
+}
+.avatar-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /* Điều chỉnh khoảng cách theo nhu cầu */
+}
+
+.avatar-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.avatar-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+.bi-star-fill,
+.bi-star {
+    color: #f39c12;
+}
+
+
+
+
+
+
+
+
+
+
+/*Icon*/
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
